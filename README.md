@@ -2,15 +2,17 @@
 
 This is a resource repo :tada:
 
-## How to use ? 
+## How to use ?  :sparkles:
 
-- `code`
+- code
 
 ```<img width="100" src="https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/sample/logo.png"/>```
 
-- `status`
+- status  
 
-<img width="100" align='left' src="https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/sample/logo.png"/>
+   <p aligh='left'>
+       <img align="center" height="50" src='https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/sample/logo.png'/>
+   </p>
 
 
 
@@ -18,7 +20,7 @@ This is a resource repo :tada:
 
 - Do _NOT_ `update` or `delete` any source file of `main` branch once it been merged :de:
 - If you wanna to use this repo's resource, please let me know :e-mail: :iphone:
-- All rights reserved :knife:
+- All Rights Reserved :copyright: 2021 by [JeremyWu](https://github.com/JeremyWu917)
 
 ## WIP :construction:
 
